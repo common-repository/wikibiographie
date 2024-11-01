@@ -1,0 +1,309 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiBiographie\n"
+"POT-Creation-Date: 2022-12-08 13:24-0500\n"
+"PO-Revision-Date: 2022-12-08 13:20-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wikibiographie.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wikibiographie-settings.php:32
+msgid "WikiBiographie configuration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-wikibiographie-settings.php:33
+msgid "WikiBiographie"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:57
+msgid "WikiBiographie parameters"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:65
+msgid "Cache duration"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:69
+msgid "1 day"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:70
+msgid "1 week (7 days)"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:71
+msgid "1 month (30 days)"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:72
+msgid "3 months (90 days)"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:73
+msgid "6 months (180 days)"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:76
+msgid ""
+"The choosen duration won't affect current biographies until they are expired "
+"or manually refreshed."
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:80
+msgid "Maximum characters for descriptions"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:84
+msgid "Enter 0 for no limit."
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:88
+msgid "Choose information do display"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:91
+#: admin/partials/wikibiographie-biographie-metabox.php:30
+#: admin/partials/wikibiographie-biographie-metabox.php:36
+#: templates/single-biographie.php:14
+msgid "First name"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:92
+#: admin/partials/wikibiographie-biographie-metabox.php:42
+#: admin/partials/wikibiographie-biographie-metabox.php:48
+#: templates/single-biographie.php:22
+msgid "Last name"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:93
+#: admin/partials/wikibiographie-biographie-metabox.php:54
+#: admin/partials/wikibiographie-biographie-metabox.php:60
+#: templates/single-biographie.php:38
+msgid "Nickname"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:94
+#: admin/partials/wikibiographie-biographie-metabox.php:66
+#: admin/partials/wikibiographie-biographie-metabox.php:71
+#: templates/single-biographie.php:30
+msgid "Photo"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:95
+#: admin/partials/wikibiographie-biographie-metabox.php:77
+#: admin/partials/wikibiographie-biographie-metabox.php:83
+#: templates/single-biographie.php:46
+msgid "Date of birth"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:96
+#: admin/partials/wikibiographie-biographie-metabox.php:89
+#: admin/partials/wikibiographie-biographie-metabox.php:95
+#: templates/single-biographie.php:54
+msgid "Place of birth"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:97
+#: admin/partials/wikibiographie-biographie-metabox.php:101
+#: admin/partials/wikibiographie-biographie-metabox.php:107
+#: templates/single-biographie.php:62
+msgid "Date of death"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:98
+#: admin/partials/wikibiographie-biographie-metabox.php:113
+#: admin/partials/wikibiographie-biographie-metabox.php:119
+#: templates/single-biographie.php:70
+msgid "Place of death"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:99
+#: admin/partials/wikibiographie-biographie-metabox.php:125
+#: admin/partials/wikibiographie-biographie-metabox.php:131
+#: templates/single-biographie.php:78
+msgid "Occupation"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:100
+#: admin/partials/wikibiographie-biographie-metabox.php:137
+#: admin/partials/wikibiographie-biographie-metabox.php:143
+#: templates/single-biographie.php:86
+msgid "Official website"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:101
+msgid "Description and complimentary description"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:104
+msgid "Only the selected information will be displayed in the biography."
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:108
+msgid "Cached biographies"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:112
+msgid ""
+"The biography data will be fetched and put into cache upon the next visit."
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:135
+msgid "The maximum description length must be a number."
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:140
+msgid "The number of characters must be greater than 0 and less than 5000."
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:174
+msgid "Empty cache data"
+msgstr ""
+
+#: admin/class-wikibiographie-settings.php:175
+#: admin/partials/wikibiographie-wikipedia-metabox.php:31
+msgid "Loading..."
+msgstr ""
+
+#: admin/partials/wikibiographie-biographie-metabox.php:22
+#: includes/class-wikibiographie.php:307 templates/single-biographie.php:107
+msgid "Wikipedia"
+msgstr ""
+
+#: admin/partials/wikibiographie-biographie-metabox.php:25
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/wikibiographie-biographie-metabox.php:72
+msgid "To customize the photo, set a featured image."
+msgstr ""
+
+#: admin/partials/wikibiographie-biographie-metabox.php:149
+#: admin/partials/wikibiographie-biographie-metabox.php:155
+#: templates/single-biographie.php:94
+msgid "Description"
+msgstr ""
+
+#: admin/partials/wikibiographie-biographie-metabox.php:158
+msgid "Complementary description (will be added after the description)"
+msgstr ""
+
+#: admin/partials/wikibiographie-wikipedia-metabox.php:23
+msgid "Wikipedia URL"
+msgstr ""
+
+#: admin/partials/wikibiographie-wikipedia-metabox.php:30
+msgid "Refresh Wikipedia info"
+msgstr ""
+
+#: includes/class-wikibiographie.php:227
+msgid "You must provide a valid Wikipedia URL."
+msgstr ""
+
+#: includes/class-wikibiographie.php:252 includes/class-wikibiographie.php:254
+#: includes/class-wikibiographie.php:267 templates/archive-biographie.php:5
+msgid "Biographies"
+msgstr ""
+
+#: includes/class-wikibiographie.php:255 includes/class-wikibiographie.php:268
+msgid "Biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:256
+msgid "Add a biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:257 includes/class-wikibiographie.php:258
+msgid "New biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:259 includes/class-wikibiographie.php:261
+msgid "Edit biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:260
+msgid "View biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:262 templates/single-biographie.php:7
+msgid "All biographies"
+msgstr ""
+
+#: includes/class-wikibiographie.php:263
+msgid "Search for a biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:264
+msgid "Parent biography"
+msgstr ""
+
+#: includes/class-wikibiographie.php:265
+msgid "No biography found"
+msgstr ""
+
+#: includes/class-wikibiographie.php:266
+msgid "No biography in the trash"
+msgstr ""
+
+#: includes/class-wikibiographie.php:312
+msgid "Biographic informations"
+msgstr ""
+
+#: includes/class-wikibiographie.php:408
+msgid "Could not retrieve image name from its url"
+msgstr ""
+
+#: includes/class-wikibiographie.php:673
+msgid "The type of data to be added to the cache must be array."
+msgstr ""
+
+#: templates/archive-biographie.php:10
+msgid "Search"
+msgstr ""
+
+#: templates/single-biographie.php:9
+msgid "Biography of : "
+msgstr ""
+
+#: templates/single-biographie.php:32
+msgid "Photo of"
+msgstr ""
+
+#: templates/single-biographie.php:107
+msgid "Content comply to CC-BY-SA 3.0 licence"
+msgstr ""
+
+#: templates/single-biographie.php:107
+msgid "Source : Article"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/ProductionsRhizome/Wikibiographie"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Fetch and manage biographies from Wikipedia."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Productions Rhizome"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.productionsrhizome.org"
+msgstr ""
